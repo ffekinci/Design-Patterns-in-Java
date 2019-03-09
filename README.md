@@ -1,4 +1,8 @@
 # Design-Patterns-in-Java
 Java Design Patterns Examples
 
-Articles Coming Soon...
+Singleton Pattern
+Factory Pattern
+Strategy Pattern
+
+# Articles Coming Soon...
